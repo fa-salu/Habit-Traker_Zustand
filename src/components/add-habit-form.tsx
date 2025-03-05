@@ -36,7 +36,7 @@ export default function AddHabitForm() {
         />
 
         <FormControl fullWidth>
-          <InputLabel id="demo-simple-select-label">Age</InputLabel>
+          <InputLabel id="demo-simple-select-label">Choose</InputLabel>
           <Select
             value={frequency}
             label="Frequency"
